@@ -1,0 +1,15 @@
+
+* Curso de Visualización de Datos Urbanos Etopia 2021
+
+Un repositorio con los contenidos del curso
+
+1. Introducción y organización del curso
+2. Herramientas
+3. Limpieza de datos 
+4. Análisis de datos
+5. Visualización de datos
+6. Puesta en común de los proyectos y cierre del curso
+* 1. Introducción y organización del curso
+* 2. Herramientas
+** Ejemplos
+- NPR, Housing Segregation https://www.npr.org/sections/codeswitch/2018/04/11/601494521/video-housing-segregation-in-everything
